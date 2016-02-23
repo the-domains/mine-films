@@ -1,0 +1,28 @@
+name: Mine Films
+favicon: null
+layout_spectrum: 0.8045430423226207
+typography_spectrum: 0.27652154909446836
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.0701847979798913
+  lightness: 0.3880090669263154
+  saturation: 0.9524948189500719
+  rhythmicContrast: 0.8506992703769356
+purpose: []
