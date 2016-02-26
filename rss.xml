@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mine Films]]></title>
         <description><![CDATA[Mine Films]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mine-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 05:30:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 05:30:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mine-films/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6417c2b8-6f46-4b93-aede-3a1ba8a9257c.JPG">]]></description>
-            <link>undefinedbbc5b263-82ce-4867-b262-dd43b7e6a665/index.html</link>
+            <link>https://thegrid.ai/mine-films/bbc5b263-82ce-4867-b262-dd43b7e6a665/index.html</link>
             <guid isPermaLink="false">bbc5b263-82ce-4867-b262-dd43b7e6a665</guid>
-            <pubDate>Fri, 26 Feb 2016 05:26:52 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 05:25:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
